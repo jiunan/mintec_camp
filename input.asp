@@ -1,5 +1,4 @@
 <html>
-
 <head>
 <meta http-equiv="content-type" content="text/html; charset=euc-kr">
 <title>신청자 입력</title>
